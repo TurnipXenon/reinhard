@@ -18,6 +18,11 @@
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
+**Startup commands:**
+
+1.`cdk synth`
+2.`cdk bootstrap`
+
 ## Useful commands
 
 * `npm run build`   compile typescript to js
