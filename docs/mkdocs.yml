@@ -1,0 +1,7 @@
+site_name: PLACEHOLDER
+theme:
+  name: readthedocs
+#repo_url: PLACEHOLDER
+nav:
+  - Home: index.md
+  - Onboarding: onboarding.md
