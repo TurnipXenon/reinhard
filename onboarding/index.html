@@ -49,6 +49,8 @@
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#setup">Setup</a>
     </li>
+    <li class="toctree-l2"><a class="reference internal" href="#useful-commands">Useful commands</a>
+    </li>
     <li class="toctree-l2"><a class="reference internal" href="#mkdocs">MKDocs</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#mkdocs-setup">MKDocs: Setup</a>
@@ -90,6 +92,29 @@
 <h2 id="setup">Setup</h2>
 <p><strong>TODO</strong></p>
 <p><strong>PLACEHOLDER</strong></p>
+<p><strong>Requirements:</strong></p>
+<ul>
+<li>This is a CDK project so you need the prerequisites for CDK. Look
+  at <a href="https://cdkworkshop.com/15-prerequisites.html">Prerequisite for the CDK Workshop</a>. You need the following:</li>
+<li><a href="https://cdkworkshop.com/15-prerequisites/100-awscli.html">AWS CLI</a></li>
+<li><a href="https://cdkworkshop.com/15-prerequisites/200-account.html">AWS Account and User</a></li>
+<li><a href="https://cdkworkshop.com/15-prerequisites/300-nodejs.html">Node.js</a></li>
+<li><a href="https://cdkworkshop.com/15-prerequisites/500-toolkit.html">AWS CDK Toolkit</a></li>
+<li>Note that you might need admin privileges for some of the commands!</li>
+</ul>
+<p>The <code>cdk.json</code> file tells the CDK Toolkit how to execute your app.</p>
+<p><strong>Startup commands:</strong></p>
+<p>1.<code>cdk synth</code>
+2.<code>cdk bootstrap</code></p>
+<h2 id="useful-commands">Useful commands</h2>
+<ul>
+<li><code>npm run build</code>   compile typescript to js</li>
+<li><code>npm run watch</code>   watch for changes and compile</li>
+<li><code>npm run test</code>    perform the jest unit tests</li>
+<li><code>cdk deploy</code>      deploy this stack to your default AWS account/region</li>
+<li><code>cdk diff</code>        compare deployed stack with current state</li>
+<li><code>cdk synth</code>       emits the synthesized CloudFormation template</li>
+</ul>
 <h2 id="mkdocs">MKDocs</h2>
 <p>You don't really need to run through this to make edits to MKDocs, but if you want to see the layout and what it looks
 like served, check this guide.</p>
