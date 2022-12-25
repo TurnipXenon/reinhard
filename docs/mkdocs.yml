@@ -1,7 +1,7 @@
-site_name: PLACEHOLDER
+site_name: Reinhard
 theme:
   name: readthedocs
-#repo_url: PLACEHOLDER
+repo_url: https://github.com/TurnipXenon/reinhard
 nav:
   - Home: index.md
   - Onboarding: onboarding.md

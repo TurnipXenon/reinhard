@@ -1,4 +1,4 @@
-module github.com/TurnipXenon/PLACEHOLDER
+module github.com/TurnipXenon/reinhard
 
 go 1.17
 
