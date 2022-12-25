@@ -1,31 +1,19 @@
-# PLACEHOLDER
+# Reinhard
 
-**PLACEHOLDER**
-
-## Github housekeeping
-- [ ] Do we want this to be public?
-- [ ] Remove wiki
-- [ ] Do not allow merge commits and rebase mergine
-- [ ] Default message for squash merging should be pull request title
-- [ ] Automatically delete head branches
-- [ ] If asset heavy, include Git LFS and run `git lfs install` locally
-- [ ] Protect main branch
-  - [ ]  Require a pull request before merging
-    - [ ] Require approvals and dismiss stale request approvals
-  - [ ]  Require status check to pass and require branches to be up to date before merging
+Reinhard is the infrastructure configuration for our edge service. It may also be home to the services that should be
+centralized.
 
 ## Important links
 
-- [ ] Replace all PLACEHOLDER text
-- [ ] Documentation page
-- [ ] Project page
+- [Documentation page](https://turnipxenon.github.io/reinhard)
+- [Project page](https://github.com/users/TurnipXenon/projects/8)
 - [ ] Technical specification doc
 
 **Specific sections inside the documentation page:**
 
 - [ ] Setup?
 - [ ] Quickstart
-- [ ] [Onboarding guide](./docs/docs/onboarding.md)
+- [ ] [Onboarding guide](./docs/docs/docs/docs/onboarding.md)
 - [ ] Testing locally
 - [ ] Testing via dev stack
 - [ ] Deploying to production

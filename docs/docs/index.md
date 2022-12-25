@@ -1,11 +1,11 @@
-# PLACEHOLDER
+# Reinhard
 
-**PLACEHOLDER**
+Reinhard is the infrastructure configuration for our edge service. It may also be home to the services that should be
+centralized.
 
 ## Important links
 
-- [ ] Replace all PLACEHOLDER text
-- [ ] Documentation page
+- [Documentation page](https://turnipxenon.github.io/reinhard)
 - [ ] Project page
 - [ ] Technical specification doc
 
@@ -13,7 +13,7 @@
 
 - [ ] Setup?
 - [ ] Quickstart
-- [ ] [Onboarding guide](./onboarding.md)
+- [ ] [Onboarding guide](./docs/docs/onboarding.md)
 - [ ] Testing locally
 - [ ] Testing via dev stack
 - [ ] Deploying to production
